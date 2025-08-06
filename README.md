@@ -48,3 +48,34 @@ Uvicorn – ASGI server to run the FastAPI app
 
 🗄️ Database:
 SQL Database (most likely SQLite or PostgreSQL depending on your config)
+
+
+# PROJECT STRUCTURE 
+Student Applications/
+│
+├── backend/                          # FastAPI backend
+│   ├── main.py                       # Entry point of FastAPI app
+│   ├── database.py                   # DB connection setup
+│   ├── models.py                     # SQLAlchemy models (User, Question, etc.)
+│   ├── schemas.py                    # Pydantic schemas for request/response
+│   ├── auth/                         # JWT authentication logic
+│   │   ├── auth_handler.py
+│   │   └── auth_bearer.py
+│   ├── routes/                       # All route handlers
+│   │   ├── user_routes.py
+│   │   └── exam_routes.py
+│   ├── utils/                        # Utility functions (e.g., scoring, timer)
+│   └── requirements.txt              # Python dependencies
+│
+├── frontend/                         # React frontend
+│   ├── public/                       # Static files
+│   ├── src/
+│   │   ├── components/               # Reusable UI components (Navbar, Timer, etc.)
+│   │   ├── pages/                    # Page components (Login, Register, Exam)
+│   │   ├── services/                 # Axios API calls to backend
+│   │   ├── App.jsx                   # Main app component with routes
+│   │   └── index.js                  # React entry point
+│   └── package.json                  # Frontend dependencies & scripts
+│
+├── README.md                         # Project documentation
+└── .gitignore    
