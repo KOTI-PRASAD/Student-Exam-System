@@ -10,3 +10,5 @@ A full-stack application that allows students to register, log in, and take a ti
 - Score calculation and display
 - Clean and responsive UI using React
 - Backend with FastAPI and SQL (SQLite/PostgreSQL/MySQL)
+
+# HOW IT APPEARS
