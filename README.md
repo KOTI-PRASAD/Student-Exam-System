@@ -14,8 +14,9 @@ A full-stack application that allows students to register, log in, and take a ti
 # HOW IT APPEARS
 
 ![image alt](https://github.com/KOTI-PRASAD/Student-Exam-System/blob/2802711683cfc0bdf68b116b34c28984ac243b0f/Screenshot%202025-08-06%20185147.png)
-
 ![image alt](https://github.com/KOTI-PRASAD/Student-Exam-System/blob/c831863394947b2592c974f5568e0ae7d961d49c/Screenshot%202025-08-06%20185202.png)
 
 ![image alt](https://github.com/KOTI-PRASAD/Student-Exam-System/blob/3741e4d0fb8ac7ae5565118f6a59b7fda407cde7/Screenshot%202025-08-06%20185217.png)
+
+![image alt](https://github.com/KOTI-PRASAD/Student-Exam-System/blob/e45cfba0828a629c30cde4f2b30b0ce9714d40e1/Screenshot%202025-08-06%20192126.png)
 
