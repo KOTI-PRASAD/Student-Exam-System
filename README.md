@@ -12,3 +12,5 @@ A full-stack application that allows students to register, log in, and take a ti
 - Backend with FastAPI and SQL (SQLite/PostgreSQL/MySQL)
 
 # HOW IT APPEARS
+
+![image alt]("C:\Users\kotip\OneDrive\Pictures\Screenshots\Screenshot 2025-08-06 185147.png")
