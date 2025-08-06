@@ -20,3 +20,31 @@ A full-stack application that allows students to register, log in, and take a ti
 
 ![image alt](https://github.com/KOTI-PRASAD/Student-Exam-System/blob/e45cfba0828a629c30cde4f2b30b0ce9714d40e1/Screenshot%202025-08-06%20192126.png)
 
+
+# TECH STACK
+💻 Frontend:
+React.js – for building the UI
+
+Tailwind CSS – for styling
+
+Axios – for making API calls to the backend
+
+JavaScript (JSX) – core language used with React
+
+🖥️ Backend:
+Python – programming language
+
+FastAPI – web framework to build REST APIs
+
+SQL – database layer (could be SQLite, PostgreSQL, or MySQL)
+
+SQLAlchemy – ORM (Object Relational Mapper) for DB operations
+
+JWT (JSON Web Tokens) – for authentication
+
+Pydantic – for data validation and request/response schemas
+
+Uvicorn – ASGI server to run the FastAPI app
+
+🗄️ Database:
+SQL Database (most likely SQLite or PostgreSQL depending on your config)
