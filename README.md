@@ -51,3 +51,5 @@ SQL Database (most likely SQLite or PostgreSQL depending on your config)
 
 
 # PROJECT STRUCTURE 
+backend/ FastAPI backend
+database.py/  Entry point of FastAPI app
