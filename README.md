@@ -13,4 +13,4 @@ A full-stack application that allows students to register, log in, and take a ti
 
 # HOW IT APPEARS
 
-![image alt]("C:\Users\kotip\OneDrive\Pictures\Screenshots\Screenshot 2025-08-06 185147.png")
+![image alt](https://github.com/KOTI-PRASAD/Student-Exam-System/blob/2802711683cfc0bdf68b116b34c28984ac243b0f/Screenshot%202025-08-06%20185147.png)
