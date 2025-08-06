@@ -1,0 +1,15 @@
+/* Result.css */
+.result-page {
+  padding: 20px;
+  max-width: 600px;
+  margin: auto;
+  background: #f9f9f9;
+  border-radius: 10px;
+}
+
+.wrong-answer {
+  background-color: #ffe6e6;
+  padding: 10px;
+  margin-top: 15px;
+  border-left: 4px solid red;
+}
