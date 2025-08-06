@@ -54,4 +54,10 @@ SQL Database (most likely SQLite or PostgreSQL depending on your config)
 backend/ FastAPI backend
 database.py/  Entry point of FastAPI app
 routes:user_routes
+Frontend
 
+# Prerequisites
+*FastAPI
+*React
+*SQL
+*Postma(API testing)
